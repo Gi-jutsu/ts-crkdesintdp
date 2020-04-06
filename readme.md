@@ -30,19 +30,13 @@ Hi, here are some rules to carry out this story oav;
 
 > Don't forget, there is no useless question :-)
 
-* You **MUST** return the project on Tuesday March, 31 at 23:42 pm by sending an MP on slack with the link of your github repo.
+* You **MUST** return the project on Tuesday March, 7 at 18:00 pm by sending an MP on slack with the link of your github repo.
 
 Your repository **MUST** contain the totality of your source files, but no useless files (node_modules, temp files, log files,...).
 
 ## <a name='overview'>🐱 Overview</a>
 
-The purpose of this project is to make you realize a simulation of a restaurant, which is composed of the reception that accepts new commands, of several kitchens, themselves with several cooks, themselves cooking several dishes.
-
-You will learn to deal with various problems, including load balancing, process and thread synchronization and communication.
-
-Before you get started, should take some time to read up on the following tools you’ll need to use :
-- [Processes](https://nodejs.org/api/child_process.html)
-- [IPC aka Inter-processcommunication](https://en.wikipedia.org/wiki/Inter-process_communication)
+The purpose of this project is for you to create/implement some design patterns depending on the situation.
 
 ## <a name='exercises'>🐨 Exercises</a>
 
