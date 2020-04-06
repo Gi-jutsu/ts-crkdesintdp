@@ -43,7 +43,7 @@ The purpose of this project is for you to create/implement some design patterns 
 ### = Ex.01 - Deck of Cards
 
 Design the data structures for a generic deck of cards.<br />
-Explain how you would subclass the data structures to implement blackjack. 
+How you would subclass the data structures to implement blackjack. 
 
 ### = Ex.02 - Call Center
 
@@ -55,7 +55,6 @@ If the respondent can't handle the call, he or she must escalate the call to a m
 If the manager is not free or not able to handle it, then the call should be escalated to a director.
 
 Design the classes and data structures for this problem.<br />
-Implement a method dispatchCall() which assigns a call to the first available employee. 
 
 ### = Ex.03 - Jukebox
 
@@ -71,17 +70,12 @@ Design the data structures for an online book reader system.
 
 ### = Ex.06 - Jigsaw
 
-Implement an NxN jigsaw puzzle.<br />
-Design the data structures and explain an algorithm to solve the puzzle.
-
-You can assume that you have a fitsWith method which, when passed two puzzle edges, returns true if the two edges belong together.
+Design the data structures for a NxN jigsaw puzzle.<br />
 
 ### = Ex.07 - Chat Server
 
 Explain how you would design a chat server.<br />
 In particular, provide details about the various backend components, classes, and methods.
-
-What would be the hardest problems to solve? 
 
 ### = Ex.08 - Othello
 
@@ -93,21 +87,17 @@ On your turn, you must capture at least one of your opponent's pieces. <br />
 
 The game ends when either user has no more valid moves. The win is assigned to the person with the most pieces.
 
-Implement the object-oriented design for Othello
+Design the object-oriented design for Othello.
 
 ### = Ex.09 - Circular Array
 
-Implement a CircularArray class that supports an array-like data structure which
-can be efficiently rotated.<br />
+Design a CircularArray class that supports an array-like data structure which can be efficiently rotated.<br />
 
 If possible, the class should use a generic type (also called a template), and should support iteration via the standard f or (Obj o : circularArray) notation.
 
 ## <a name='bonus'>🦄 Bonus</a>
 
-I know you love that, well you can in bulk:
-
-* Add graphical version of the reception
-* Being able to add new dish very simply (abstraction?)
+Implement everything ;)
 
 ## <a name='credits'>🐵 Credits</a>
 
