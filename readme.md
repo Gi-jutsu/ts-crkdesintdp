@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="./baratie.logo.png"">
+  <img alt="" src="./crkdesintdp.logo.png"">
 </p>
 
 ## <a name='TOC'>🐼 Summary</a>
@@ -15,13 +15,13 @@
 
 Hi, here are some rules to carry out this story oav;
 
-* You **MUST** create a git repository named `ts-baratie`
+* You **MUST** create a git repository named `ts-crkdesintdp`
 * You **MUST** create a file called `.author.json` with your fullname
 
 ```sh
 ~/ts-baratie ❯❯❯ cat -e .author.json
 {
-  "fullname" : "Tim Berner Lee"
+  "fullname" : "Donald Knuth"
 }$
 ```
 
@@ -54,7 +54,8 @@ Explain how you would subclass the data structures to implement blackjack.
 ### = Ex.02 - Call Center
 
 Imagine you have a call center with three levels of employees: `respondent`, `manager`,
-and `director`. An incoming telephone call must be first allocated to a respondent who is free.
+and `director`.<br />
+An incoming telephone call must be first allocated to a respondent who is free.
 
 If the respondent can't handle the call, he or she must escalate the call to a manager.<br />
 If the manager is not free or not able to handle it, then the call should be escalated to a director.
