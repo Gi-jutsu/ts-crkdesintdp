@@ -32,7 +32,7 @@ Hi, here are some rules to carry out this story oav;
 
 * You **MUST** return the project on Tuesday April, 7 at 18:30 pm by sending an MP on slack with the link of your github repo.
 
-Your repository **MUST** contain the totality of your source files, but no useless files (node_modules, temp files, log files,...).
+Your repository **MUST** contain the totality of your schema exports PNG files.
 
 ## <a name='overview'>🐱 Overview</a>
 
