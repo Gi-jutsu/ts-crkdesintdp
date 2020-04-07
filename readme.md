@@ -19,7 +19,7 @@ Hi, here are some rules to carry out this story oav;
 * You **MUST** create a file called `.author.json` with your fullname
 
 ```sh
-~/ts-baratie ❯❯❯ cat -e .author.json
+~/ts-crkdesintdp ❯❯❯ cat -e .author.json
 {
   "fullname" : "Donald Knuth"
 }$
@@ -30,7 +30,7 @@ Hi, here are some rules to carry out this story oav;
 
 > Don't forget, there is no useless question :-)
 
-* You **MUST** return the project on Tuesday March, 7 at 18:30 pm by sending an MP on slack with the link of your github repo.
+* You **MUST** return the project on Tuesday April, 7 at 18:30 pm by sending an MP on slack with the link of your github repo.
 
 Your repository **MUST** contain the totality of your source files, but no useless files (node_modules, temp files, log files,...).
 
